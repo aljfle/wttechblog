@@ -1,0 +1,131 @@
+# Copyright (C) 2025 Optima Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-06 20:45+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: functions.php:30
+msgid "Personal Hero Banner"
+msgstr ""
+
+#: functions.php:45
+msgid "Enable Hero Banner"
+msgstr ""
+
+#: functions.php:60
+msgid "Image"
+msgstr ""
+
+#: functions.php:78
+msgid "Text"
+msgstr ""
+
+#: functions.php:92
+msgid "Link URL"
+msgstr ""
+
+#: functions.php:106
+msgid "Button Color"
+msgstr ""
+
+#: functions.php:120
+msgid "Show Social Links in Hero Banner"
+msgstr ""
+
+#: functions.php:128
+msgid "Full"
+msgstr ""
+
+#: functions.php:129
+msgid "Boxed"
+msgstr ""
+
+#: functions.php:140
+msgid "Hero Banner Width"
+msgstr ""
+
+#: functions.php:173
+msgid "Top Navigaion"
+msgstr ""
+
+#: functions.php:178
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:192
+msgid "Enable Top Navigation"
+msgstr ""
+
+#: functions.php:207
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: functions.php:221
+msgid "Top Navigation Text Color"
+msgstr ""
+
+#: functions.php:234
+msgid "Main Navigation Background Color"
+msgstr ""
+
+#: functions.php:245
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:255
+msgid "Set-up Top Menu"
+msgstr ""
+
+#: header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/columns/column-one.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/columns/column-one.php:68
+#: template-parts/single/post-contents.php:50
+msgid " - By"
+msgstr ""
+
+#: template-parts/columns/column-one.php:93
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/columns/column-one.php:110
+msgid "Nothing Found!"
+msgstr ""
+
+#: template-parts/columns/column-one.php:111
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/single/post-contents.php:62
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/single/post-contents.php:76
+msgid "No Comments"
+msgstr ""
+
+#: template-parts/single/post-contents.php:76
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/single/post-contents.php:76
+msgid "Comments"
+msgstr ""

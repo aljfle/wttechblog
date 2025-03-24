@@ -1,0 +1,8 @@
+/* Special Links Customizer CSS */
+#customize-control-graceful_personal_options-special_links_title_1, 
+#customize-control-graceful_personal_options-special_links_title_2,
+#customize-control-graceful_personal_options-special_links_title_3 {
+	border-top: 1px solid #aaaaaa;
+    padding-top: 10px;
+    margin-top: 8px;
+}
