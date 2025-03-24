@@ -18,14 +18,17 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.wtmigremo.site/intern-Aljohn/dumlao_wordpress.git
+
+git remote add origin https://github.com/aljfle/wttechblog.git
+
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.wtmigremo.site/intern-Aljohn/dumlao_wordpress/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/aljfle/wttechblog.git/-/settings/integrations)
+
 
 ## Collaborate with your team
 
