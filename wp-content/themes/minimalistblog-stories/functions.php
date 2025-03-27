@@ -29,6 +29,9 @@ function minimalistblog_stories_enqueue_assets() {
 }
 add_action( 'wp_enqueue_scripts', 'minimalistblog_stories_enqueue_assets' );
 
+
+
+
 function minimalistblog_stories_customize_register( $wp_customize ) {
 	$wp_customize->get_setting( 'blogname' )->transport         = 'postMessage';
 	$wp_customize->get_setting( 'blogdescription' )->transport  = 'postMessage';
@@ -205,9 +208,9 @@ if(! function_exists('minimalistblog_stories_customizer_css_final_output' ) ):
 			.header-widget .widget-title, .header-widget h1, .header-widget h3, .header-widget h2, .header-widget h4, .header-widget h5, .header-widget h6{ color: <?php echo esc_attr(get_theme_mod( 'upperwidgets_title_color')); ?>; }
 			.header-widget.swidgets-wrap, .header-widget ul li, .header-widget .search-field { border-color: <?php echo esc_attr(get_theme_mod( 'upperwidgets_border_color')); ?>; }
 		</style>
+		
 	<?php }
 	add_action( 'wp_head', 'minimalistblog_stories_customizer_css_final_output' );
 endif;
-
 
 require get_stylesheet_directory() . '/inc/custom-header.php';
